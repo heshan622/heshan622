@@ -4,6 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshan622&label=Profile%20views&color=0e75b6&style=flat" alt="heshan622" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on [Hotel_Booking_Site](https://github.com/heshan622/Hotel_Booking_Site_Front-End)
 
 - 🌱 I’m currently learning **full-stack development with React, Node.js, MySQL, and automation testing using Selenium + TestNG through hands-on courses.**
@@ -11,6 +15,18 @@
 - 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://heshan622-portfolio.vercel.app/)
 
 - 📫 How to reach me 📧 [mail](mailto:p.heshan622@gmail.com)
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
