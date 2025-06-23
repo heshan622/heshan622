@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://heshan622-portfolio.vercel.app/)
 
-- 📫 How to reach me **p.heshan622@gmail.com**
+- 📫 How to reach me 📧 [mail](mailto:p.heshan622@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
