@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Heshan</h1>
 <h3 align="center">A Computer Science undergraduate based in Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshan622&label=Profile%20views&color=0e75b6&style=flat" alt="heshan622" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heshan622&label=Profile%20views&color=0e75b6&style=flat" alt="heshan622" /> </p>
 
 - 🔭 I’m currently working on [Hotel_Booking_Site](https://github.com/heshan622/Hotel_Booking_Site_Front-End)
 
