@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full-stack development with React, Node.js, MySQL, and automation testing using Selenium + TestNG through hands-on courses.**
 
-- 👨‍💻 All of my projects are available at [https://heshan622-portfolio.vercel.app/](https://heshan622-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://heshan622-portfolio.vercel.app/)
 
 - 📫 How to reach me **p.heshan622@gmail.com**
 
